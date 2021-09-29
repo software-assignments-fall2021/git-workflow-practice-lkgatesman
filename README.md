@@ -15,3 +15,10 @@ I think that this software would be helpful, but I also understand concerns that
 ### Comment by Seunggun Lee
 
 As Lauren described, this article is very interesting because of both the power and curse of CSAM software. I feel this dichotamy - which is often a gray scale problem, rather than a black-and-white one - is common throughout the tech scene. I think this issue is especially relevant today, where various government bodies and private companies are able to utilize surveillance technology to monitor individuals. As active particpants in the tech field (both as users and developers), I think it's crucial for us to be mindful of the direction of technology and its power.
+
+
+### Comment by Jin Hyeong Kim
+Right off the bat, I thought CSAM was something that had to do with Apple's ever-improving camera functionality and the recently added ability to approximate distances between the apple product and an object within the scope of said product's camera. I digress.
+
+Child sexual abuse detection technology. Sounds like a daunting task, but one which I'm very interested seeing how Apple will go about implementing. While a part of me would like to advocate technology such as this to further guarantee child protection, I can't help but be reminded of the big 2018 scandal where Mark Zuckerberg decided to leverage Facebook user data. All light speculation, really.
+Interesting article nonetheless!
